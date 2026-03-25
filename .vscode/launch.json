@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array4",
+            "request": "launch",
+            "mainClass": "array4",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "SortColors",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode",
+            "request": "launch",
+            "mainClass": "Leetcode",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "pattern14",
+            "request": "launch",
+            "mainClass": "pattern14",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "pattern13",
+            "request": "launch",
+            "mainClass": "pattern13",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern12",
+            "projectName": "java_works_3369dbd7"
+        },
+        {
+            "type": "java",
             "name": "pattern11",
             "request": "launch",
             "mainClass": "pattern11",
